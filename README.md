@@ -8,3 +8,4 @@ I am typing these lines on 20-Dec-2014.
 
 Unfortunately I can't tell much more about this project right now.
 
+So, this line (currently #11) is added via the editor in RStudio.
